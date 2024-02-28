@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of basic SQL skills such as performing and filtering inquiries by various parameters, joining, 
+Project consists of basic SQL skills such as performing and filtering inquiries by various parameters and joining tables.
 <br />
 
 
